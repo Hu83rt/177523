@@ -79,10 +79,10 @@ Istnieja cztery podstawowe cechy, ze względu na które różnią się indeksy r
     34%; -15,5%; -29,05%;
     
     Średnia arytmetyczna wynosi 
-    $\frac{0,233+(-0,125)+(-0,1905)}{3}$ = 0,59%
+    $ \frac{0,233+(-0,125)+(-0,1905)}{3} $ = 0,59%
     
     Średnia geometryczna wynosi 
-    [(1,33)(0,875)+(0,8095)]$^{\frac{1}{3}}$ -1 = -1,89%
+    [(1,33)(0,875)+(0,8095)]$ ^{\frac{1}{3}} $ -1 = -1,89%
     
     Obie średnie wykazały zupełnie inne wyniki. Średnia arytmetyczna jest zawsze większa od średniej geometrycznej. Różnica jest im wieksza im większa jest względność zmian cen. Średnia geometryczna rośnie w mniejszym tempie i spada w większym tempie niż średnia arytmetyczna z czego ostrożniej ocenia zmiany. 
     
