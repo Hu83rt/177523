@@ -145,4 +145,19 @@ $$ Ilev_t = Ilev_T*(2*\frac{I_t}{I_T}-1)-Ilev_T(\frac{R}{360})*d $$
     - I_T – ostatnia wartoœæ zamkniêcia indeksu bazowego
     - R – stawka procentowa depozytów Overnight
     - d – liczba dni kalendarzowych pomiêdzy dniem t i T.
+    
+    
 
+#### Bibliografia: ####
+
+ - Strony internetowe: 
+ 
+ [Encyklopedia Zarzadzania](http://mfiles.pl/pl/index.php/Indeks_gie%C5%82dowy)
+ 
+ - Ksi¹zki:
+ 
+    - Marcin Krzywda "Gie³da Papierów Wartoœciowych w Praktyce"
+   
+    - Krzysztof Jajuga, Teresa Jajuga pt. "Inwestycje, Instrumenty finansowe, Aktywa Finansowe, Ryzyko finansowe, Inzynieria Finansowa"
+
+ - Prezentacje (za³¹czone na stronie)
