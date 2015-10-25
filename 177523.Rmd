@@ -160,4 +160,4 @@ $$ Ilev_t = Ilev_T*(2*\frac{I_t}{I_T}-1)-Ilev_T(\frac{R}{360})*d $$
    
     - Krzysztof Jajuga, Teresa Jajuga pt. "Inwestycje, Instrumenty finansowe, Aktywa Finansowe, Ryzyko finansowe, Inzynieria Finansowa"
 
- - Prezentacje (za³¹czone na stronie)
+ - Prezentacje (za³¹czone na stronie w katalogu)
