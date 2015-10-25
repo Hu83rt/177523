@@ -93,7 +93,7 @@ Istnieja cztery podstawowe cechy, ze względu na które różnią się indeksy r
 
     np:
 
-    > WIG-energia 
+    WIG-energia 
 $$ \left ( \frac{\sum_{i=1}^{n} P(i)*S(i) }{\sum_{i=1}^{n}P(0)*S(0)*K(t)}\right )*B(0)$$
     gdzie poszczególne symbole oznaczają::
 
