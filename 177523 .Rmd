@@ -46,7 +46,7 @@ Obserwacja zmian indeksu pozwala śledzić koniunkturę giełdową.
 
 Istnieja cztery podstawowe cechy, ze względu na które różnią się indeksy rynku:
 
- - ** Liczba spółek, których akcje są uwzględniane przy konstrukcji indeksu; **
+ - **Liczba spółek, których akcje są uwzględniane przy konstrukcji indeksu;**
   zwykle przy konstrukcji indeksu uwzglednia się część spółek występujących na danym rynku. 
   
     - Może to być niewielka część spółek np indeksy Dowa-Jonesa oparte o 30, 20, 15, 65 spółkach;
@@ -55,7 +55,7 @@ Istnieja cztery podstawowe cechy, ze względu na które różnią się indeksy r
   
     - Rzadko kiedy spotyka się indeksy gdzie uwzględnia się wszystkie spółki np WIG
     
- - ** Konstrukcja wag przydzielana akcjom poszczególnych spółek **, powszechne są trzy sposoby ważenia
+ - **Konstrukcja wag przydzielana akcjom poszczególnych spółek**, powszechne są trzy sposoby ważenia
   
     - ważenie wartością rynkową spółki, waga jest tym większa im większy jest udział wartości rynkowej spółki w wartości rynkowej wszystkich spółek występujących na rynku
     
@@ -63,7 +63,7 @@ Istnieja cztery podstawowe cechy, ze względu na które różnią się indeksy r
     
     - przyjęcie jednakowych wag dla spółek, niezaleznie od wartości rynkowej spółki lub akcji;
     
- - ** Sposób uśredniania w konstrukcji indeksu **:
+ - **Sposób uśredniania w konstrukcji indeksu**:
   
     - średnia arytmetyczna;
     - średnia geometryczna;
@@ -86,7 +86,7 @@ Istnieja cztery podstawowe cechy, ze względu na które różnią się indeksy r
     
     Obie średnie wykazały zupełnie inne wyniki. Średnia arytmetyczna jest zawsze większa od średniej geometrycznej. Różnica jest im wieksza im większa jest względność zmian cen. Średnia geometryczna rośnie w mniejszym tempie i spada w większym tempie niż średnia arytmetyczna z czego ostrożniej ocenia zmiany. 
     
- - **Uwzględnianie dochodów z tytułu dywidend i praw poboru **, są tu dwie możliwości:
+ - **Uwzględnianie dochodów z tytułu dywidend i praw poboru**, są tu dwie możliwości:
 
     - Indeksy Dochodowe
   umożliwiają obserwację łącznej zmiany cen danej grupy akcji wraz z           przypisanymi tym akcjom prawami majątkowym, tj. prawami do dywidendy czy     też prawami poboru akcji; pozwalają łatwo ocenić rentowność inwestycji       giełdowych przez porównanie ich do innych form lokowania kapitału.
