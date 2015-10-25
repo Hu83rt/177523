@@ -5,146 +5,153 @@ output: html_document
 
 
 
-Indeksy rynku to inaczej indeksy gie³dowe.
+Indeksy rynku to inaczej indeksy gieÅ‚dowe.
 
-S¹ to statystyczne, syntetyczne i konwencjonalne mierniki rynku papierów wartoœciowych przedstawiaj¹ce poziom oraz zmiany ustalone, wed³ug przyjêtych zasad wartoœci portfela papierów wartoœciowych, reprezentuj¹cego ca³y rynek, jego wyró¿nion¹ czêœæ lub wyró¿nione czêœci, wiêcej ni¿ jednego rynku.
+SÄ… to statystyczne, syntetyczne i konwencjonalne mierniki rynku papierÃ³w wartoÅ›ciowych przedstawiajÄ…ce poziom oraz zmiany ustalone, wedÅ‚ug przyjÄ™tych zasad wartoÅ›ci portfela papierÃ³w wartoÅ›ciowych, reprezentujÄ…cego caÅ‚y rynek, jego wyrÃ³Å¼nionÄ… czÄ™Å›Ä‡ lub wyrÃ³Å¼nione czÄ™Å›ci, wiÄ™cej niÅ¼ jednego rynku.
 
-Obliczane s¹ na podstawie kursów wszystkich notowanych spó³ek lub okreœlonej ich grupy. 
+Obliczane sÄ… na podstawie kursÃ³w wszystkich notowanych spÃ³Å‚ek lub okreÅ›lonej ich grupy. 
 
-Obserwacja zmian indeksu pozwala œledziæ koniunkturê gie³dow¹.
+Obserwacja zmian indeksu pozwala Å›ledziÄ‡ koniunkturÄ™ gieÅ‚dowÄ….
 
-## Zasady konstrukcji indeksów:##
+## Zasady konstrukcji indeksÃ³w:##
 
-- Transparentnoœæ
-    - Zasady konstrukcji portfela i obliczania wartoœci indeksu jest zrozumia³a dla uczestników rynku;
-    - Dane potrzebne do konstrukcji indeksu s¹ na rynku powszechnie rynku dostêpne;
+- TransparentnoÅ›Ä‡
+    - Zasady konstrukcji portfela i obliczania wartoÅ›ci indeksu jest zrozumiaÅ‚a dla uczestnikÃ³w rynku;
+    - Dane potrzebne do konstrukcji indeksu sÄ… na rynku powszechnie rynku dostÄ™pne;
 
-- Replikowalnoœæ
-    - Portfel indeksu powinien byæ tak skonstruowany, aby istnia³a 100% mo¿liwoœæ jego utworzenia w efekcie inwestycji rynkowych;
-    - Zmiany indeksu s¹ przeprowadzane w taki sposób aby istnia³a mo¿liwoœæ zbudowania portfela inwestycyjnego indeksu;
+- ReplikowalnoÅ›Ä‡
+    - Portfel indeksu powinien byÄ‡ tak skonstruowany, aby istniaÅ‚a 100% moÅ¼liwoÅ›Ä‡ jego utworzenia w efekcie inwestycji rynkowych;
+    - Zmiany indeksu sÄ… przeprowadzane w taki sposÃ³b aby istniaÅ‚a moÅ¼liwoÅ›Ä‡ zbudowania portfela inwestycyjnego indeksu;
 
-- Przewidywalnoœæ
-    - Informacje o zmianach indeksu s¹ powszechnie dostêpne;
-    - Informacje o zmianach indeksu s¹ podawane z odpowiednio du¿ym wyprzedzeniem;
-    - Wyznaczanie indeksu przez uczestnika rynku na podstawie ogólnie dostêpnych danych powinno prowadziæ do takich samych rezultatów jak dzia³anie w³aœciciela indeksu;
+- PrzewidywalnoÅ›Ä‡
+    - Informacje o zmianach indeksu sÄ… powszechnie dostÄ™pne;
+    - Informacje o zmianach indeksu sÄ… podawane z odpowiednio duÅ¼ym wyprzedzeniem;
+    - Wyznaczanie indeksu przez uczestnika rynku na podstawie ogÃ³lnie dostÄ™pnych danych powinno prowadziÄ‡ do takich samych rezultatÃ³w jak dziaÅ‚anie wÅ‚aÅ›ciciela indeksu;
 
-- Dostêpnoœæ
-    - Informacje o zasadach obliczania indeksu, metodyce, algorytmach s¹ powszechnie dostêpne;
-    - Informacje o wartoœciach indeksu, liœcie uczestników, wagach s¹ dostêpne w podstawowych mediach;
+- DostÄ™pnoÅ›Ä‡
+    - Informacje o zasadach obliczania indeksu, metodyce, algorytmach sÄ… powszechnie dostÄ™pne;
+    - Informacje o wartoÅ›ciach indeksu, liÅ›cie uczestnikÃ³w, wagach sÄ… dostÄ™pne w podstawowych mediach;
 
-## Funkcje indeksu gie³dowego:##
-
-
-- zbie¿na informacja o sytuacji na rynku b¹dŸ jego wybranych segmentach,
-- instrument bazowy dla instrumentów pochodnych (opcji, kontraktów futures i forward),
-- punkt odniesienia dla oceny efektywnoœci inwestowania,
-- specjalistyczne narzêdzie, które pomaga inwestorom w konstruowaniu w³asnych wskaŸników gie³dowych,
-- stanowi substytut portfela rynkowego, który ma znaczenie w teorii portfelowej i modelach rynku kapita³owego.
+## Funkcje indeksu gieÅ‚dowego:##
 
 
-## Rodzaje indeksów:##
+- zbieÅ¼na informacja o sytuacji na rynku bÄ…dÅº jego wybranych segmentach,
+- instrument bazowy dla instrumentÃ³w pochodnych (opcji, kontraktÃ³w futures i forward),
+- punkt odniesienia dla oceny efektywnoÅ›ci inwestowania,
+- specjalistyczne narzÄ™dzie, ktÃ³re pomaga inwestorom w konstruowaniu wÅ‚asnych wskaÅºnikÃ³w gieÅ‚dowych,
+- stanowi substytut portfela rynkowego, ktÃ³ry ma znaczenie w teorii portfelowej i modelach rynku kapitaÅ‚owego.
 
-Istnieja cztery podstawowe cechy, ze wzglêdu na które ró¿ni¹ siê indeksy rynku:
 
- - **Liczba spó³ek, których akcje s¹ uwzglêdniane przy konstrukcji indeksu;**
-  zwykle przy konstrukcji indeksu uwzglednia siê czêœæ spó³ek wystêpuj¹cych na danym rynku. 
+## Rodzaje indeksÃ³w:##
+
+Istnieja cztery podstawowe cechy, ze wzglÄ™du na ktÃ³re rÃ³Å¼niÄ… siÄ™ indeksy rynku:
+
+ - ** Liczba spÃ³Å‚ek, ktÃ³rych akcje sÄ… uwzglÄ™dniane przy konstrukcji indeksu; **
+  zwykle przy konstrukcji indeksu uwzglednia siÄ™ czÄ™Å›Ä‡ spÃ³Å‚ek wystÄ™pujÄ…cych na danym rynku. 
   
-    - Mo¿e to byæ niewielka czêœæ spó³ek np indeksy Dowa-Jonesa oparte o 30, 20, 15, 65 spó³kach;
+    - MoÅ¼e to byÄ‡ niewielka czÄ™Å›Ä‡ spÃ³Å‚ek np indeksy Dowa-Jonesa oparte o 30, 20, 15, 65 spÃ³Å‚kach;
   
-    - stosunkowo du¿a czêœæ spó³ek np. Standard and Poor (500 spó³ek), indeks Value Line Avarage (oko³o 1700 spó³ek)
+    - stosunkowo duÅ¼a czÄ™Å›Ä‡ spÃ³Å‚ek np. Standard and Poor (500 spÃ³Å‚ek), indeks Value Line Avarage (okoÅ‚o 1700 spÃ³Å‚ek)
   
-    - Rzadko kiedy spotyka siê indeksy gdzie uwzglêdnia siê wszystkie spó³ki np WIG
+    - Rzadko kiedy spotyka siÄ™ indeksy gdzie uwzglÄ™dnia siÄ™ wszystkie spÃ³Å‚ki np WIG
     
-  - **Konstrukcja wag przydzielana akcjom poszczególnych spó³ek **, powszechne s¹ trzy sposoby wa¿enia
+ - ** Konstrukcja wag przydzielana akcjom poszczegÃ³lnych spÃ³Å‚ek **, powszechne sÄ… trzy sposoby waÅ¼enia
   
-    - wa¿enie wartoœci¹ rynkow¹ spó³ki, waga jest tym wiêksza im wiêkszy jest udzia³ wartoœci rynkowej spó³ki w wartoœci rynkowej wszystkich spó³ek wystêpuj¹cych na rynku
+    - waÅ¼enie wartoÅ›ciÄ… rynkowÄ… spÃ³Å‚ki, waga jest tym wiÄ™ksza im wiÄ™kszy jest udziaÅ‚ wartoÅ›ci rynkowej spÃ³Å‚ki w wartoÅ›ci rynkowej wszystkich spÃ³Å‚ek wystÄ™pujÄ…cych na rynku
     
-    - wa¿enie cen¹ akcji spó³ki, w tej sytuacji waga jest tym wieksza, im wy¿sza jest cena akcji spó³ki;
+    - waÅ¼enie cenÄ… akcji spÃ³Å‚ki, w tej sytuacji waga jest tym wieksza, im wyÅ¼sza jest cena akcji spÃ³Å‚ki;
     
-    - przyjêcie jednakowych wag dla spó³ek, niezaleznie od wartoœci rynkowej spó³ki lub akcji;
+    - przyjÄ™cie jednakowych wag dla spÃ³Å‚ek, niezaleznie od wartoÅ›ci rynkowej spÃ³Å‚ki lub akcji;
     
-  - **Sposób uœredniania w konstrukcji indeksu **:
+ - ** SposÃ³b uÅ›redniania w konstrukcji indeksu **:
   
-    - œrednia arytmetyczna;
-    - œrednia geometryczna;
+    - Å›rednia arytmetyczna;
+    - Å›rednia geometryczna;
     
-    Zaprezentuje obie formy na przyk³adzie:
+    Zaprezentuje obie formy na przykÅ‚adzie:
     
-    Cena akcji w czterech kolejnych okresach wynosi³a
+    Cena akcji w czterech kolejnych okresach wynosiÅ‚a
     
     90, 120, 105, 85
     
-    Wzglêdna zmiana ceny wynosi³a 
+    WzglÄ™dna zmiana ceny wynosiÅ‚a 
     
     34%; -15,5%; -29,05%;
     
-    Œrednia arytmetyczna wynosi 
+    Åšrednia arytmetyczna wynosi 
     $\frac{0,233+(-0,125)+(-0,1905)}{3}$ = 0,59%
     
-    Œrednia geometryczna wynosi 
+    Åšrednia geometryczna wynosi 
     [(1,33)(0,875)+(0,8095)]$^{\frac{1}{3}}$ -1 = -1,89%
     
-    Obie œrednie wykaza³y zupe³nie inne wyniki. Œrednia arytmetyczna jest zawsze wiêksza od œredniej geometrycznej. Ró¿nica jest im wieksza im wiêksza jest wzglêdnoœæ zmian cen. Œrednia geometryczna roœnie w mniejszym tempie i spada w wiêkszym tempie ni¿ œrednia arytmetyczna z czego ostro¿niej ocenia zmiany. 
+    Obie Å›rednie wykazaÅ‚y zupeÅ‚nie inne wyniki. Åšrednia arytmetyczna jest zawsze wiÄ™ksza od Å›redniej geometrycznej. RÃ³Å¼nica jest im wieksza im wiÄ™ksza jest wzglÄ™dnoÅ›Ä‡ zmian cen. Åšrednia geometryczna roÅ›nie w mniejszym tempie i spada w wiÄ™kszym tempie niÅ¼ Å›rednia arytmetyczna z czego ostroÅ¼niej ocenia zmiany. 
     
-  - **Uwzglêdnianie dochodów z tytu³u dywidend i praw poboru **, s¹ tu dwie mo¿liwoœci:
+ - **UwzglÄ™dnianie dochodÃ³w z tytuÅ‚u dywidend i praw poboru **, sÄ… tu dwie moÅ¼liwoÅ›ci:
 
     - Indeksy Dochodowe
-  umo¿liwiaj¹ obserwacjê ³¹cznej zmiany cen danej grupy akcji wraz z           przypisanymi tym akcjom prawami maj¹tkowym, tj. prawami do dywidendy czy     te¿ prawami poboru akcji; pozwalaj¹ ³atwo oceniæ rentownoœæ inwestycji       gie³dowych przez porównanie ich do innych form lokowania kapita³u.
+  umoÅ¼liwiajÄ… obserwacjÄ™ Å‚Ä…cznej zmiany cen danej grupy akcji wraz z           przypisanymi tym akcjom prawami majÄ…tkowym, tj. prawami do dywidendy czy     teÅ¼ prawami poboru akcji; pozwalajÄ… Å‚atwo oceniÄ‡ rentownoÅ›Ä‡ inwestycji       gieÅ‚dowych przez porÃ³wnanie ich do innych form lokowania kapitaÅ‚u.
 
     np:
 
-    > WIG-energia 
-$$ \left ( \frac{\sum_{i=1}^{n} P(i)*S(i) }{\sum_{i=1}^{n}P(0)*S(0)*K(t)}\right )*B(0)$$
-    gdzie poszczególne symbole oznaczaj¹::
+WIG-energia 
 
-    - S(i) – pakiet uczestnika indeksu ‘i’ na danej sesji
-    - P(i) - kurs uczestnika indeksu ‘i’ na danej sesji
-    - S(0) - pakiet uczestnika indeksu ‘i’ na sesji w dniu bazowym
-    - P(0) - kurs uczestnika indeksu ‘i’ na sesji w dniu bazowym
-    - K(t) - wspó³czynnik koryguj¹cy indeksu na danej sesji
-    - B(0) – wartoœæ indeksu w dniu bazowym
+$$ \left ( \frac{\sum_{i=1}^{n} P(i)*S(i) }{\sum_{i=1}^{n}P(0)*S(0)*K(t)}\right )*B(0)$$
+    
+    gdzie poszczegÃ³lne symbole oznaczajÄ…::
+
+    - S(i) â€“ pakiet uczestnika indeksu â€˜iâ€™ na danej sesji
+    - P(i) - kurs uczestnika indeksu â€˜iâ€™ na danej sesji
+    - S(0) - pakiet uczestnika indeksu â€˜iâ€™ na sesji w dniu bazowym
+    - P(0) - kurs uczestnika indeksu â€˜iâ€™ na sesji w dniu bazowym
+    - K(t) - wspÃ³Å‚czynnik korygujÄ…cy indeksu na danej sesji
+    - B(0) â€“ wartoÅ›Ä‡ indeksu w dniu bazowym
 
 
     - Indeksy Cenowe
-bazuj¹ jedynie na odnotowywaniu zmian cen akcji.
+bazujÄ… jedynie na odnotowywaniu zmian cen akcji.
 
     np:
 
-    > WIG20 
+    WIG20 
 $$ WIG20(t) = \frac{M(t)}{M(0)*K(t)}*1000$$
+
 $$ K(t) = K(t-1)*\frac{Mz(t)}{M(t)}$$
-Uwzglêdnianie wspó³czynnika koryguj¹cego ma na celu neutralizowanie zmian wielkoœci kapitalizacji gie³dy, takich jak zmiany w sk³adzie portfela indeksu, wyp³aty dywidendy
 
-    poszczególne symbole oznaczaj¹:
+UwzglÄ™dnianie wspÃ³Å‚czynnika korygujÄ…cego ma na celu neutralizowanie zmian wielkoÅ›ci kapitalizacji gieÅ‚dy, takich jak zmiany w skÅ‚adzie portfela indeksu, wypÅ‚aty dywidendy
 
-    - WIG20 – wartoœæ indeksu WIG20,
-    - M(t) – kapitalizacja portfela indeksu na sesji t,
-    - M(0) – kapitalizacja portfela indeksu w dniu bazowym
-    - K(t) – wspó³czynnik koryguj¹cy indeksu na sesji t
-    - Mz(t) – zmodyfikowana wartoœæ kapitalizacji gie³dowej dla sesji t (np. dodana wartoœæ akcji nowego uczestnika indeksu).
+    poszczegÃ³lne symbole oznaczajÄ…:
+
+    - WIG20 â€“ wartoÅ›Ä‡ indeksu WIG20,
+    - M(t) â€“ kapitalizacja portfela indeksu na sesji t,
+    - M(0) â€“ kapitalizacja portfela indeksu w dniu bazowym
+    - K(t) â€“ wspÃ³Å‚czynnik korygujÄ…cy indeksu na sesji t
+    - Mz(t) â€“ zmodyfikowana wartoÅ›Ä‡ kapitalizacji gieÅ‚dowej dla sesji t (np. dodana wartoÅ›Ä‡ akcji nowego uczestnika indeksu).
 
 
-    > WIG20short
+WIG20short
 $$ Ishort_t = Ishort_T*(-1*\frac{I_t}{I_T}+2)+2*Ishort_T*(\frac{R}{360})*d $$
-gdzie poszczególne symbole oznaczaj¹:
-  
-    - Ishort_t – bie¿¹ca wartoœæ indeksu short
-    - Ishort_T – ostatnia wartoœæ zamkniêcia indeksu short
-    - I_t – bie¿¹ca wartoœæ indeksu bazowego
-    - I_T – ostatnia wartoœæ zamkniêcia indeksu bazowego
-    - R – stawka procentowa depozytów Overnight
-    - d – liczba dni kalendarzowych pomiêdzy dniem t i T.
 
-    > WIG20lev
-$$ Ilev_t = Ilev_T*(2*\frac{I_t}{I_T}-1)-Ilev_T(\frac{R}{360})*d $$
-    gdzie poszczególne symbole oznaczaj¹:
+gdzie poszczegÃ³lne symbole oznaczajÄ…:
   
-    - Ilev_t – bie¿¹ca wartoœæ indeksu leverage
-    - Ilev_T – ostatnia wartoœæ zamkniêcia indeksu leverage
-    - I_t – bie¿¹ca wartoœæ indeksu bazowego
-    - I_T – ostatnia wartoœæ zamkniêcia indeksu bazowego
-    - R – stawka procentowa depozytów Overnight
-    - d – liczba dni kalendarzowych pomiêdzy dniem t i T.
+    - Ishort_t â€“ bieÅ¼Ä…ca wartoÅ›Ä‡ indeksu short
+    - Ishort_T â€“ ostatnia wartoÅ›Ä‡ zamkniÄ™cia indeksu short
+    - I_t â€“ bieÅ¼Ä…ca wartoÅ›Ä‡ indeksu bazowego
+    - I_T â€“ ostatnia wartoÅ›Ä‡ zamkniÄ™cia indeksu bazowego
+    - R â€“ stawka procentowa depozytÃ³w Overnight
+    - d â€“ liczba dni kalendarzowych pomiÄ™dzy dniem t i T.
+
+WIG20lev
+    
+$$ Ilev_t = Ilev_T*(2*\frac{I_t}{I_T}-1)-Ilev_T(\frac{R}{360})*d $$
+
+    gdzie poszczegÃ³lne symbole oznaczajÄ…:
+  
+    - Ilev_t â€“ bieÅ¼Ä…ca wartoÅ›Ä‡ indeksu leverage
+    - Ilev_T â€“ ostatnia wartoÅ›Ä‡ zamkniÄ™cia indeksu leverage
+    - I_t â€“ bieÅ¼Ä…ca wartoÅ›Ä‡ indeksu bazowego
+    - I_T â€“ ostatnia wartoÅ›Ä‡ zamkniÄ™cia indeksu bazowego
+    - R â€“ stawka procentowa depozytÃ³w Overnight
+    - d â€“ liczba dni kalendarzowych pomiÄ™dzy dniem t i T.
     
     
 
@@ -154,10 +161,10 @@ $$ Ilev_t = Ilev_T*(2*\frac{I_t}{I_T}-1)-Ilev_T(\frac{R}{360})*d $$
  
  [Encyklopedia Zarzadzania](http://mfiles.pl/pl/index.php/Indeks_gie%C5%82dowy)
  
- - Ksi¹zki:
+ - KsiÄ…zki:
  
-    - Marcin Krzywda "Gie³da Papierów Wartoœciowych w Praktyce"
+    - Marcin Krzywda "GieÅ‚da PapierÃ³w WartoÅ›ciowych w Praktyce"
    
     - Krzysztof Jajuga, Teresa Jajuga pt. "Inwestycje, Instrumenty finansowe, Aktywa Finansowe, Ryzyko finansowe, Inzynieria Finansowa"
 
- - Prezentacje (za³¹czone na stronie w katalogu)
+ - Prezentacje (zaÅ‚Ä…czone na stronie w katalogu)
